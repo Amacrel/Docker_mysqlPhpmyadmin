@@ -1,0 +1,12 @@
+Un client a un nom, un prénom, une adresse postale, un numéro de téléphone, un email
+Un client possède un seul sexe
+Une catégorie de vêtement regroupe plusieurs types de vêtement
+Un vêtement est destiné soit à un homme soit à une femme, pas les deux
+Un vêtement a un nom, une description, un prix, une quantité disponible
+Un vêtement est acheté par 0, un ou plusieurs clients
+Un client peut acheter 0, un ou plusieurs vêtements
+Une commande a un numéro unique, un client, une date, une quantité, un montant total, un détail de commande et le ou les vêtements achetés
+Un vêtement possède 0, une ou plusieurs caractéristique
+Une caractéristique est associée à 0, un ou plusieurs vêtements
+Une commande a un acheteur
+Un acheteur a 0, une ou plusieurs commandes
